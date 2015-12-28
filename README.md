@@ -9,3 +9,8 @@ Example of using Node.js, Express.js and EJS.
 ## Run
 
 `npm start`
+
+## References
+
++ http://expressjs.com/
++ http://ejs.co/

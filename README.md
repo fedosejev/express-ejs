@@ -2,6 +2,12 @@
 
 Example of using Node.js, Express.js and EJS.
 
+### Endpoints
+
++ `/`
++ `/student`
++ `/teacher`
+
 ## Install
 
 `npm install`

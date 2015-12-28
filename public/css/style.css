@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  font-family: 'Lora', serif;
+  text-align: center;
+  background-color: #fefefe;
+  color: #333;
+}
+
+h1 {
+  margin: 20px 0;
+}

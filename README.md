@@ -14,7 +14,8 @@ Example of using Node.js, Express.js and EJS.
 
 ## Run
 
-`npm start`
+1. `npm start`
+2. Open `http://localhost:8080` in a web browser.
 
 ## References
 

@@ -19,5 +19,5 @@ Example of using Node.js, Express.js and EJS.
 
 ## References
 
-+ http://expressjs.com/
-+ http://ejs.co/
++ http://expressjs.com
++ http://ejs.co

@@ -9,7 +9,7 @@ app.set('view engine', 'ejs');
 
 app.use(express.static(path.join(__dirname, 'public')));
 
-var PORT = 8080;
+const PORT = 8080;
 
 var router = express.Router();
 
